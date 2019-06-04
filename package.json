@@ -1,0 +1,24 @@
+{
+  "name": "fuzzypath",
+  "version": "1.0.0",
+  "description": "Fuzzypath central crm and control panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswassampad/ecommerce_realtime.git"
+  },
+  "keywords": [
+    "fuzzy",
+    "path",
+    "ecommerce"
+  ],
+  "author": "biswas sampad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biswassampad/ecommerce_realtime/issues"
+  },
+  "homepage": "https://github.com/biswassampad/ecommerce_realtime#readme"
+}
